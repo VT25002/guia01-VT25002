@@ -1,2 +1,6 @@
-# guia01-VT25002
-Desarrollo del contenido de la guía 01 de la materia de PPI.
+# Programación para Internet GT[1] – 2026
+## SOLUCION GUIA #1
+Integrantes:
+- Johny Emanuel Valencia Torres, VT25002    
+- nombre completo, carnet
+- nombre completo, carnet
