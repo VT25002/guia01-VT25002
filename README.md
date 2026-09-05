@@ -2,5 +2,5 @@
 ## SOLUCION GUIA #1
 Integrantes:
 - Johny Emanuel Valencia Torres, VT25002    
-- nombre completo, carnet
-- nombre completo, carnet
+- Gabriel Esmeralda Perez Acosta, PA25030
+- Manuel Salvador Saravia Sermeño, SS25027
